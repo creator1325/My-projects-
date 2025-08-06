@@ -22,10 +22,9 @@ This task was completed as part of a *Data Analyst Internship* program.
 Detail                      | Value        
 |----------------------------|--------------
 | Initial Rows               | 105          
-| Duplicates Removed         | 5            
-| Rows with Nulls Removed    | 5            
-| Inconsistent Formats Fixed | 2            
-| Final Cleaned Rows         | 95    
+| Duplicates Removed         | 2            
+| Rows with Nulls Removed    | 3            
+| Inconsistent Formats Fixed | 2          
 
 earning Outcome
 Through this task, I learned:
